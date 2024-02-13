@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 
 ## Recent Zenn Posts
 <!-- zenn start -->
+- Jan 24 - [【初心者向け】AWS Security Hub について改めて整理してみた](https://zenn.dev/issy/articles/zenn-securityhub-overview)
+- Jan 24 - [【初心者向け】Aamazon GuardDuty について改めて整理してみた](https://zenn.dev/issy/articles/zenn-guardduty-overview)
+- Jan 09 - [【初心者向け】AWS WAF & Shield について改めて整理してみた](https://zenn.dev/issy/articles/zenn-waf-and-shield-overview)
+- Jan 09 - [【初心者向け】AWS Certificate Manager(ACM) について改めて整理してみた](https://zenn.dev/issy/articles/zenn-acm-overview)
+- Dec 05 - [【初心者向け】AWS KMS について改めて整理してみた](https://zenn.dev/issy/articles/zenn-kms-overview)
 <!-- zenn end -->
 
 ## My Resume
