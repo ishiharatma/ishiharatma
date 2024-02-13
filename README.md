@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Recent Zenn Posts
+## Recent Zenn Posts
 <!-- zenn start -->
 <!-- zenn end -->
 
