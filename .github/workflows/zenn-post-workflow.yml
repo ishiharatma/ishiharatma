@@ -8,12 +8,12 @@ jobs:
   readme:
     runs-on: ubuntu-latest
     outputs:
-      changed: ${{ steps.feed.outputs.changed }}
-      items: ${{ steps.feed.outputs.items }}
+      changed: ${{ steps.zenn.outputs.changed }}
+      items: ${{ steps.zenn.outputs.items }}
     steps:
       - uses: actions/checkout@v2
-      - name: zenn
-        uses: sarisia/actions-readme-feed@v1
+      - uses: sarisia/actions-readme-feed@v1
+        id: zenn
         with:
           url: 'https://zenn.dev/issy/feed'
           file: 'README.md'
