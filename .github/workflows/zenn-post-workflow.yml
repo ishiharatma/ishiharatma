@@ -1,0 +1,9 @@
+steps:
+  - uses: actions/checkout@v2
+  - name: zenn
+    uses: sarisia/actions-readme-feed@v1
+    with:
+      url: 'https://zenn.dev/issy/feed'
+      file: 'README.md'
+    start_flag: "<!-- zenn start -->"
+    end_flag: "<!-- zenn end -->"

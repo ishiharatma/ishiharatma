@@ -16,6 +16,14 @@ Here are some ideas to get you started:
 -->
 
 
+### Recent Zenn Posts
+<!-- zenn start -->
+<!-- zenn end -->
+
+## My Resume
+
+[Resume](https://ishiharatma.github.io/resume/)
+
 ## My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=aws,ts,js,py,nodejs,java,html,css,php,spring,vue,vite,jquery,bootstrap,docker,kubernetes,postgres,mysql,vscode&theme=light&perline=5)](https://skillicons.dev)
