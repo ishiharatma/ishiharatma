@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## Recent Zenn Posts
 <!-- zenn start -->
-- Mar 23 - [【初心者向け】AWS Direct Connect について改めて整理してみた](https://zenn.dev/issy/articles/zenn-directconnect-overview)
-- Mar 23 - [【初心者向け】AWS CloudFormation について改めて整理してみた](https://zenn.dev/issy/articles/zenn-cfn-overview)
-- Mar 02 - [【やってみた】AWS CloudFormation IaC ジェネレーター](https://zenn.dev/issy/articles/zenn-cfn-iac-generator-tried-it)
-- Jan 24 - [【初心者向け】AWS Security Hub について改めて整理してみた](https://zenn.dev/issy/articles/zenn-securityhub-overview)
-- Jan 24 - [【初心者向け】Aamazon GuardDuty について改めて整理してみた](https://zenn.dev/issy/articles/zenn-guardduty-overview)
+- Mar 23 - [【初心者向け】AWS Direct Connect 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-directconnect-overview)
+- Mar 23 - [【初心者向け】AWS CloudFormation 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-cfn-overview)
+- Mar 02 - [【実例】AWS CloudFormation IaC ジェネレーターで爆速 IaC 化](https://zenn.dev/issy/articles/zenn-cfn-iac-generator-tried-it)
+- Jan 24 - [【初心者向け】AWS Security Hub 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-securityhub-overview)
+- Jan 24 - [【初心者向け】Aamazon GuardDuty 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-guardduty-overview)
 <!-- zenn end -->
 
 ## My Resume
