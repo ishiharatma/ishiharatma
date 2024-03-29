@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## Recent Zenn Posts
 <!-- zenn start -->
+- Mar 29 - [【やってみた】Amazon Bedrockを利用した画像生成アプリケーションをAWS CDKで開発してみた！](https://zenn.dev/issy/articles/zenn-bedrock-apigw-tried-it)
 - Mar 23 - [【実例】Amazon API Gateway を S3 プロキシにして簡易スタブ API でテスト効率化！](https://zenn.dev/issy/articles/zenn-apigw-s3-stub-tried-it)
 - Mar 23 - [【初心者向け】AWS Direct Connect 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-directconnect-overview)
 - Mar 23 - [【初心者向け】AWS CloudFormation 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-cfn-overview)
 - Mar 02 - [【実例】AWS CloudFormation IaC ジェネレーターで爆速 IaC 化](https://zenn.dev/issy/articles/zenn-cfn-iac-generator-tried-it)
-- Jan 24 - [【初心者向け】AWS Security Hub 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-securityhub-overview)
 <!-- zenn end -->
 
 ## My Resume
