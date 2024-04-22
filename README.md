@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## Recent Zenn Posts
 <!-- zenn start -->
+- Apr 22 - [【実例】Python 3.12用psycopg2のLambdaレイヤーを作成する](https://zenn.dev/issy/articles/zenn-lambda-layer-psycopg2-tried-it)
 - Apr 09 - [あれ？リソースがなくなっている！？とならないためにデフォルトリージョンを](https://zenn.dev/issy/articles/zenn-aws-account-default-region)
 - Apr 05 - [【アップデート】新しい CloudWatch メトリクス MetadataNoTokenRejected が利用できるようになりました](https://zenn.dev/issy/articles/zenn-ec2-imdsv2-only)
 - Mar 29 - [【やってみた】Amazon Bedrockを利用した画像生成アプリケーションをAWS CDKで開発してみた！](https://zenn.dev/issy/articles/zenn-bedrock-apigw-tried-it)
 - Mar 23 - [【実例】Amazon API Gateway を S3 プロキシにして簡易スタブ API でテスト効率化！](https://zenn.dev/issy/articles/zenn-apigw-s3-stub-tried-it)
-- Mar 23 - [【初心者向け】AWS Direct Connect 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-directconnect-overview)
 <!-- zenn end -->
 
 ## My Resume
