@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## Recent Zenn Posts
 <!-- zenn start -->
+- Jun 23 - [2024 AWS All Certifications Engineersへの道](https://zenn.dev/issy/articles/load-to-aws-all-certifications-12x-2024)
 - Jun 03 - [【初心者向け】AWS Transit Gateway 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-transitgw-overview)
 - May 08 - [【アップデート】自動的に割り当てられたパブリック IPv4 アドレスの動的な削除と追加をサポート](https://zenn.dev/issy/articles/zenn-ec2-update-remove-public-ip)
 - Apr 22 - [【実例】Python 3.12用psycopg2のLambdaレイヤーを作成する](https://zenn.dev/issy/articles/zenn-lambda-layer-psycopg2-tried-it)
 - Apr 09 - [あれ？リソースがなくなっている！？とならないためにデフォルトリージョンを](https://zenn.dev/issy/articles/zenn-aws-account-default-region)
-- Apr 05 - [【アップデート】新しい CloudWatch メトリクス MetadataNoTokenRejected が利用できるようになりました](https://zenn.dev/issy/articles/zenn-ec2-imdsv2-only)
 <!-- zenn end -->
 
 ## My Resume
