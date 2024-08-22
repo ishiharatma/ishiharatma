@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## Recent Zenn Posts
 <!-- zenn start -->
+- Aug 22 - [【初心者向け】AWS IAM でのマルチアカウント管理入門！完全ガイド](https://zenn.dev/issy/articles/zenn-iam-multi-account)
+- Aug 22 - [【初心者向け】Aamazon GuardDuty Malware Protection for S3 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-guardduty-s3-malware-protection-overview)
 - Jul 22 - [【初心者向け】AWS CDK 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-cdk-overview)
 - Jul 18 - [【実例】これで解決！AWS CDKのバージョン違いで起こったデプロイ障害とその対策](https://zenn.dev/issy/articles/aws-cdk-trouble-nat-instance-v2)
 - Jul 03 - [書籍「Amazon Bedrock 生成AIアプリ開発入門-第４章-」 × AWS Summit Japan 2024](https://zenn.dev/issy/articles/bedrock-book-aws-summit-2024)
-- Jun 30 - [AWS Summit Japan 2024 参加メモ～AWS Summit Japan 2025に向けての歩き方～](https://zenn.dev/issy/articles/aws-summit-japan-2024)
-- Jun 23 - [2024 AWS All Certifications Engineersへの道](https://zenn.dev/issy/articles/load-to-aws-all-certifications-12x-2024)
 <!-- zenn end -->
 
 ## My Resume
