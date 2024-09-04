@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## Recent Zenn Posts
 <!-- zenn start -->
+- Sep 04 - [【実例】AWS WAFのIP制限を自動化！S3アップロードだけでホワイトリストを瞬時に更新！](https://zenn.dev/issy/articles/aws-waf-ip-whitelist-auto-updater)
 - Aug 22 - [【初心者向け】AWS IAM でのマルチアカウント管理入門！完全ガイド](https://zenn.dev/issy/articles/zenn-iam-multi-account)
 - Aug 22 - [【初心者向け】Aamazon GuardDuty Malware Protection for S3 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-guardduty-s3-malware-protection-overview)
 - Jul 22 - [【初心者向け】AWS CDK 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-cdk-overview)
 - Jul 18 - [【実例】これで解決！AWS CDKのバージョン違いで起こったデプロイ障害とその対策](https://zenn.dev/issy/articles/aws-cdk-trouble-nat-instance-v2)
-- Jul 03 - [書籍「Amazon Bedrock 生成AIアプリ開発入門-第４章-」 × AWS Summit Japan 2024](https://zenn.dev/issy/articles/bedrock-book-aws-summit-2024)
 <!-- zenn end -->
 
 ## My Resume
