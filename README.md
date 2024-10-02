@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## My Resume
 
-[Resume](https://ishiharatma.github.io/resume/)
+[Resume](https://ishiharatma.github.io/)
 
 ## Status
 
