@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 - [Zenn]Sep 02 - [【初心者向け】Amazon Q Developer 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-q-overview)
 <!-- zenn end -->
 <!-- qiita start -->
+- [Qiita]Aug 27 - [【アップデート】間違ったアカウントでの作業を防止——AWS公式ヘッダ色付け機能が登場](https://qiita.com/issy929/items/385678c0b16dca971737)
+- [Qiita]Jun 28 - [AWS Summit 2025 Community Stage全セッション＆資料まとめ](https://qiita.com/issy929/items/e02154bea72c4cff3106)
 <!-- qiita end -->
 <!-- devdotto start -->
 <!-- devdotto end -->
