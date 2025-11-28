@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Recent Zenn Posts
+## Recent Blog Posts
+
+[Other Activities Here](https://ishiharatma.github.io/activities/)
+
 <!-- zenn start -->
 - Sep 04 - [【実例】AWS WAFのIP制限を自動化！S3アップロードだけでホワイトリストを瞬時に更新！](https://zenn.dev/issy/articles/aws-waf-ip-whitelist-auto-updater)
 - Aug 22 - [【初心者向け】AWS IAM でのマルチアカウント管理入門！完全ガイド](https://zenn.dev/issy/articles/zenn-iam-multi-account)
@@ -26,6 +29,10 @@ Here are some ideas to get you started:
 - Jul 22 - [【初心者向け】AWS CDK 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-cdk-overview)
 - Jul 18 - [【実例】これで解決！AWS CDKのバージョン違いで起こったデプロイ障害とその対策](https://zenn.dev/issy/articles/aws-cdk-trouble-nat-instance-v2)
 <!-- zenn end -->
+<!-- qiita start -->
+<!-- qiita end -->
+<!-- devdotto start -->
+<!-- devdotto end -->
 
 ## My Resume
 

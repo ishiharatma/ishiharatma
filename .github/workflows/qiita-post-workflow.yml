@@ -1,0 +1,32 @@
+name: 'Qiita feed ci'
+on:
+  workflow_dispatch:
+  push:
+  schedule:
+    - cron: '3 * * * *'
+
+jobs:
+  readme:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.qiita.outputs.changed }}
+      items: ${{ steps.qiita.outputs.items }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: sarisia/actions-readme-feed@v1
+        id: qiita
+        with:
+          url: 'https://qiita.com/issy929/feed'
+          file: 'README.md'
+          max_entry: 2
+          format: '- [Qiita]${monthshort} ${02day} - [${title}](${url})'
+          start_flag: "<!-- qiita start -->"
+          end_flag: "<!-- qiita end -->"
+      - name: push to master
+        if: steps.qiita.outputs.changed == true
+        run: |
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+          git add .
+          git commit -m "docs: update qiita feed"
+          git push

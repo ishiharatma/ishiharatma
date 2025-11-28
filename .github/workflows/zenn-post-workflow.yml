@@ -18,6 +18,8 @@ jobs:
         with:
           url: 'https://zenn.dev/issy/feed'
           file: 'README.md'
+          max_entry: 2
+          format: '- [Zenn]${monthshort} ${02day} - [${title}](${url})'
           start_flag: "<!-- zenn start -->"
           end_flag: "<!-- zenn end -->"
       - name: push to master
