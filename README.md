@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - [Qiita]Jun 28 - [AWS Summit 2025 Community Stage全セッション＆資料まとめ](https://qiita.com/issy929/items/e02154bea72c4cff3106)
 <!-- qiita end -->
 <!-- devdotto start -->
-- [Dev.to]Dec 02 - [Introducing: AWS CDK 100 Drill Exercises - Learn by Building](https://dev.to/issy929/introducing-aws-cdk-100-drill-exercises-learn-by-building-5949)
+- [Dev.to]Dec 02 - [Introducing: AWS CDK 100 Drill Exercises - Learn by Building](https://dev.to/aws-builders/introducing-aws-cdk-100-drill-exercises-learn-by-building-5949)
 - [Dev.to]Nov 25 - [Mastering AWS CDK #3 - AWS CDK Development: Best Practices and Workflow](https://dev.to/aws-builders/mastering-aws-cdk-3-aws-cdk-development-best-practices-and-workflow-1f37)
 <!-- devdotto end -->
 
