@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 [Other Activities Here](https://ishiharatma.github.io/activities/)
 
 <!-- zenn start -->
-- [Zenn]Dec 01 - [【初心者向け】AWS Database Migration Service(DMS) 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-dms-overview)
-- [Zenn]Sep 10 - [【アップデート】CloudFrontの署名付きURLでECDSA鍵を利用可能に！──実測で91%高速化、55%のURL短縮効果](https://zenn.dev/issy/articles/update-aws-cloudfront-ecdsa-signed-urls)
+- [Zenn]Dec 11 - [TEAM for AWS IAM Identity Center 導入ガイド ──(6/6) 監査者向けガイド](https://zenn.dev/issy/articles/zenn-team-04-guides-03-auditor)
+- [Zenn]Dec 11 - [TEAM for AWS IAM Identity Center 導入ガイド ──(5/6) 管理者向けガイド](https://zenn.dev/issy/articles/zenn-team-04-guides-02-administrator)
 <!-- zenn end -->
 <!-- qiita start -->
 - [Qiita]Aug 27 - [【アップデート】間違ったアカウントでの作業を防止——AWS公式ヘッダ色付け機能が登場](https://qiita.com/issy929/items/385678c0b16dca971737)
