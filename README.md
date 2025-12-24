@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - [Qiita]Jun 28 - [AWS Summit 2025 Community Stage全セッション＆資料まとめ](https://qiita.com/issy929/items/e02154bea72c4cff3106)
 <!-- qiita end -->
 <!-- devdotto start -->
-- [Dev.to]Dec 24 - [AWS CDK 100 Drill Exercises #004: NAT Instance V2 — Cost-Effective NAT with Automated Scheduling and Patch Management](https://dev.to/issy929/aws-cdk-100-drill-exercises-004-nat-instance-v2-cost-effective-nat-with-automated-scheduling-49li)
+- [Dev.to]Dec 24 - [AWS CDK 100 Drill Exercises #004: NAT Instance V2 — Cost-Effective NAT with Automated Scheduling and Patch Management](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-004-nat-instance-v2-cost-effective-nat-with-automated-scheduling-49li)
 - [Dev.to]Dec 21 - [AWS CDK 100 Drill Exercises #003: VPC Basics — From Network Configuration to Security](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-003-vpc-basics-from-network-configuration-to-security-4a43)
 <!-- devdotto end -->
 
