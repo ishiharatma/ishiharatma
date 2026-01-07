@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 - [Zenn]Dec 11 - [TEAM for AWS IAM Identity Center 導入ガイド ──(5/6) 管理者向けガイド](https://zenn.dev/issy/articles/zenn-team-04-guides-02-administrator)
 <!-- zenn end -->
 <!-- qiita start -->
+- [Qiita]Jan 07 - [さくらのクラウドを基礎から学ぶ──(2)さくらのクラウド検定の勉強──デジタル技術の基礎](https://qiita.com/issy929/items/d3593918fe3c142ddb75)
 - [Qiita]Jan 06 - [Kiro IDE Remoteってどんなもの？ちょっとだけ動かしてみた](https://qiita.com/issy929/items/25a6c9fe856cdecac9a5)
-- [Qiita]Jan 05 - [さくらのクラウドを基礎から学ぶ──(1)さくらのクラウドとは？](https://qiita.com/issy929/items/59f9aa0ba65f9c32ce64)
 <!-- qiita end -->
 <!-- devdotto start -->
 - [Dev.to]Dec 31 - [AWS CDK 100 Drill Exercises #006: VPC Peering - Cross-Account Network Integration and DNS Resolution Automation](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-006-vpc-peering-cross-account-network-integration-and-dns-546)
