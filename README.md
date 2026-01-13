@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - [Zenn]Dec 11 - [TEAM for AWS IAM Identity Center 導入ガイド ──(5/6) 管理者向けガイド](https://zenn.dev/issy/articles/zenn-team-04-guides-02-administrator)
 <!-- zenn end -->
 <!-- qiita start -->
-- [Qiita]Jan 07 - [さくらのクラウドを基礎から学ぶ──(2)さくらのクラウド検定の勉強──デジタル技術の基礎](https://qiita.com/issy929/items/d3593918fe3c142ddb75)
+- [Qiita]Jan 07 - [さくらのクラウドを基礎から学ぶ──(2)さくらのクラウド検定の勉強──1.デジタル技術の基礎](https://qiita.com/issy929/items/d3593918fe3c142ddb75)
 - [Qiita]Jan 06 - [Kiro IDE Remoteってどんなもの？ちょっとだけ動かしてみた](https://qiita.com/issy929/items/25a6c9fe856cdecac9a5)
 <!-- qiita end -->
 <!-- devdotto start -->
