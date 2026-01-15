@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 - [Zenn]Dec 11 - [TEAM for AWS IAM Identity Center 導入ガイド ──(5/6) 管理者向けガイド](https://zenn.dev/issy/articles/zenn-team-04-guides-02-administrator)
 <!-- zenn end -->
 <!-- qiita start -->
-- [Qiita]Jan 15 - [さくらのクラウドを基礎から学ぶ──(8)さくらのクラウド検定─3.さくらのクラウドでのアーキテクチャ設計─システム構成設計（データ処理）](https://qiita.com/issy929/items/f3761099397a63ee0cdf)
-- [Qiita]Jan 15 - [さくらのクラウドを基礎から学ぶ──(9)さくらのクラウド検定─3.さくらのクラウドでのアーキテクチャ設計─システム構成設計（他サービスとの連携）](https://qiita.com/issy929/items/74fdf949a6b08a53cdc1)
+- [Qiita]Jan 15 - [さくらのクラウドを基礎から学ぶ──(7)さくらのクラウド検定─3.さくらのクラウドでのアーキテクチャ設計─システム構成設計（DB）](https://qiita.com/issy929/items/306e7fbe5c7528a4bc10)
+- [Qiita]Jan 15 - [さくらのクラウドを基礎から学ぶ──(6)さくらのクラウド検定─3.さくらのクラウドでのアーキテクチャ設計─システム構成設計（NW）](https://qiita.com/issy929/items/34b82564c254d9658e20)
 <!-- qiita end -->
 <!-- devdotto start -->
 - [Dev.to]Dec 31 - [AWS CDK 100 Drill Exercises #006: VPC Peering - Cross-Account Network Integration and DNS Resolution Automation](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-006-vpc-peering-cross-account-network-integration-and-dns-546)
