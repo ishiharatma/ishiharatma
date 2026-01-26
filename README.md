@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 - [Qiita]Jan 15 - [さくらのクラウドを基礎から学ぶ──(6)さくらのクラウド検定─3.さくらのクラウドでのアーキテクチャ設計─システム構成設計（NW）](https://qiita.com/issy929/items/34b82564c254d9658e20)
 <!-- qiita end -->
 <!-- devdotto start -->
+- [Dev.to]Jan 26 - [AWS CDK 100 Drill Exercises #007: SQS-Lambda-Firehose —— Building Event-Driven Data Pipelines](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-007-sqs-lambda-firehose-building-event-driven-data-pipelines-2ki8)
 - [Dev.to]Dec 31 - [AWS CDK 100 Drill Exercises #006: VPC Peering - Cross-Account Network Integration and DNS Resolution Automation](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-006-vpc-peering-cross-account-network-integration-and-dns-546)
-- [Dev.to]Dec 26 - [AWS CDK 100 Drill Exercises #005: CDK Parameters —— Managing Parameters with TypeScript vs cdk.json](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-005-cdk-parameters-managing-parameters-with-typescript-vs-cdkjson-12b9)
 <!-- devdotto end -->
 
 ## My Resume
