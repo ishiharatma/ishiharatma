@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 - [Zenn]Dec 11 - [TEAM for AWS IAM Identity Center 導入ガイド ──(5/6) 管理者向けガイド](https://zenn.dev/issy/articles/zenn-team-04-guides-02-administrator)
 <!-- zenn end -->
 <!-- qiita start -->
+- [Qiita]Feb 12 - [公式より便利？JAWS DAYS 2026のタイムテーブルビューアーを作ってみた](https://qiita.com/issy929/items/81b9fe3c8b2888aa4bee)
 - [Qiita]Jan 15 - [さくらのクラウドを基礎から学ぶ──(7)さくらのクラウド検定─3.さくらのクラウドでのアーキテクチャ設計─システム構成設計（DB）](https://qiita.com/issy929/items/306e7fbe5c7528a4bc10)
-- [Qiita]Jan 15 - [さくらのクラウドを基礎から学ぶ──(6)さくらのクラウド検定─3.さくらのクラウドでのアーキテクチャ設計─システム構成設計（NW）](https://qiita.com/issy929/items/34b82564c254d9658e20)
 <!-- qiita end -->
 <!-- devdotto start -->
 - [Dev.to]Jan 26 - [AWS CDK 100 Drill Exercises #007: SQS-Lambda-Firehose —— Building Event-Driven Data Pipelines](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-007-sqs-lambda-firehose-building-event-driven-data-pipelines-2ki8)
