@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 [Other Activities Here](https://ishiharatma.github.io/activities/)
 
 <!-- zenn start -->
-- [Zenn]Dec 11 - [TEAM for AWS IAM Identity Center 導入ガイド ──(6/6) 監査者向けガイド](https://zenn.dev/issy/articles/zenn-team-04-guides-03-auditor)
-- [Zenn]Dec 11 - [TEAM for AWS IAM Identity Center 導入ガイド ──(5/6) 管理者向けガイド](https://zenn.dev/issy/articles/zenn-team-04-guides-02-administrator)
+- [Zenn]May 11 - [【初心者向け】Amazon EBS 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-ebs-overview)
+- [Zenn]May 11 - [【初心者向け】Amazon Athena 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-athena-overview)
 <!-- zenn end -->
 <!-- qiita start -->
 - [Qiita]Feb 12 - [公式より便利？JAWS DAYS 2026のタイムテーブルビューアーを作ってみた](https://qiita.com/issy929/items/81b9fe3c8b2888aa4bee)
