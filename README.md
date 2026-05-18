@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 - [Qiita]May 18 - [さくらのクラウドを基礎から学ぶ──(12)さくらのクラウド検定─3.さくらのクラウドでのアーキテクチャ設計─コストパフォーマンスの設計](https://qiita.com/issy929/items/b5c8dcd0ca005d64c692)
 <!-- qiita end -->
 <!-- devdotto start -->
+- [Dev.to]May 18 - [CTF Event Report: Security-JAWS 10th Anniversary Day 2 — All 27 AWS Security Challenges Solved](https://dev.to/aws-builders/ctf-event-report-security-jaws-10th-anniversary-day-2-all-27-aws-security-challenges-solved-51c3)
 - [Dev.to]Jan 26 - [AWS CDK 100 Drill Exercises #007: SQS-Lambda-Firehose —— Building Event-Driven Data Pipelines](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-007-sqs-lambda-firehose-building-event-driven-data-pipelines-2ki8)
-- [Dev.to]Dec 31 - [AWS CDK 100 Drill Exercises #006: VPC Peering - Cross-Account Network Integration and DNS Resolution Automation](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-006-vpc-peering-cross-account-network-integration-and-dns-546)
 <!-- devdotto end -->
 
 ## My Resume
