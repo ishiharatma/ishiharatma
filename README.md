@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 - [Zenn]May 11 - [【初心者向け】Amazon Athena 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-athena-overview)
 <!-- zenn end -->
 <!-- qiita start -->
-- [Qiita]Feb 12 - [公式より便利？JAWS DAYS 2026のタイムテーブルビューアーを作ってみた](https://qiita.com/issy929/items/81b9fe3c8b2888aa4bee)
-- [Qiita]Jan 15 - [さくらのクラウドを基礎から学ぶ──(7)さくらのクラウド検定─3.さくらのクラウドでのアーキテクチャ設計─システム構成設計（DB）](https://qiita.com/issy929/items/306e7fbe5c7528a4bc10)
+- [Qiita]May 18 - [さくらのクラウドを基礎から学ぶ──(11)さくらのクラウド検定─3.さくらのクラウドでのアーキテクチャ設計─可用性と拡張性の設計](https://qiita.com/issy929/items/38951bd757d3e77a026a)
+- [Qiita]May 18 - [さくらのクラウドを基礎から学ぶ──(12)さくらのクラウド検定─3.さくらのクラウドでのアーキテクチャ設計─コストパフォーマンスの設計](https://qiita.com/issy929/items/b5c8dcd0ca005d64c692)
 <!-- qiita end -->
 <!-- devdotto start -->
 - [Dev.to]Jan 26 - [AWS CDK 100 Drill Exercises #007: SQS-Lambda-Firehose —— Building Event-Driven Data Pipelines](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-007-sqs-lambda-firehose-building-event-driven-data-pipelines-2ki8)
