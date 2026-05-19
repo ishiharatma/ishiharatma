@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 - [Zenn]May 11 - [【初心者向け】Amazon Athena 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-athena-overview)
 <!-- zenn end -->
 <!-- qiita start -->
+- [Qiita]May 19 - [【イベントレポート】2026/5/17 Security-JAWS【第41回】～Day2～ 「CTF」](https://qiita.com/issy929/items/2e09165a37655aab136d)
 - [Qiita]May 18 - [さくらのクラウドを基礎から学ぶ──(11)さくらのクラウド検定─3.さくらのクラウドでのアーキテクチャ設計─可用性と拡張性の設計](https://qiita.com/issy929/items/38951bd757d3e77a026a)
-- [Qiita]May 18 - [さくらのクラウドを基礎から学ぶ──(12)さくらのクラウド検定─3.さくらのクラウドでのアーキテクチャ設計─コストパフォーマンスの設計](https://qiita.com/issy929/items/b5c8dcd0ca005d64c692)
 <!-- qiita end -->
 <!-- devdotto start -->
 - [Dev.to]May 18 - [CTF Event Report: Security-JAWS 10th Anniversary Day 2 — All 27 AWS Security Challenges Solved](https://dev.to/aws-builders/ctf-event-report-security-jaws-10th-anniversary-day-2-all-27-aws-security-challenges-solved-51c3)
