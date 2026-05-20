@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 [Other Activities Here](https://ishiharatma.github.io/activities/)
 
 <!-- zenn start -->
+- [Zenn]May 20 - [【実例】AIは忘れる。だから仕様書に全部書く — GitHub Copilot を"記憶喪失"から救う6つのドキュメント管理術](https://zenn.dev/issy/articles/ai-spec-driven-development-knowhow)
 - [Zenn]May 11 - [【初心者向け】Amazon EBS 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-ebs-overview)
-- [Zenn]May 11 - [【初心者向け】Amazon Athena 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-athena-overview)
 <!-- zenn end -->
 <!-- qiita start -->
 - [Qiita]May 20 - [さくらのクラウド検定アドバンスド──(03)データベース](https://qiita.com/issy929/items/cd6faccee6e6d7222ed5)
