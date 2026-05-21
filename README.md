@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 - [Zenn]May 11 - [【初心者向け】Amazon EBS 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-ebs-overview)
 <!-- zenn end -->
 <!-- qiita start -->
-- [Qiita]May 20 - [さくらのクラウド検定アドバンスド──(03)データベース](https://qiita.com/issy929/items/cd6faccee6e6d7222ed5)
-- [Qiita]May 20 - [さくらのクラウド検定アドバンスド──(04)コンテンツ配信](https://qiita.com/issy929/items/f10b6b832cbca6b0f21b)
+- [Qiita]May 21 - [さくらのクラウド検定アドバンスド──(06)セキュリティとガバナンス](https://qiita.com/issy929/items/54cfe16d93275e03ce0a)
+- [Qiita]May 21 - [さくらのクラウド検定アドバンスド──(06)セキュリティとガバナンス](https://qiita.com/issy929/items/e54eb830d5b1475b117d)
 <!-- qiita end -->
 <!-- devdotto start -->
 - [Dev.to]May 18 - [CTF Event Report: Security-JAWS 10th Anniversary Day 2 — All 27 AWS Security Challenges Solved](https://dev.to/aws-builders/ctf-event-report-security-jaws-10th-anniversary-day-2-all-27-aws-security-challenges-solved-51c3)
