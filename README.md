@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <!-- zenn end -->
 <!-- qiita start -->
 - [Qiita]May 21 - [さくらのクラウド検定アドバンスド──(06)セキュリティとガバナンス](https://qiita.com/issy929/items/54cfe16d93275e03ce0a)
-- [Qiita]May 21 - [さくらのクラウド検定アドバンスド──(06)セキュリティとガバナンス](https://qiita.com/issy929/items/e54eb830d5b1475b117d)
+- [Qiita]May 20 - [さくらのクラウド検定アドバンスド──(03)データベース](https://qiita.com/issy929/items/cd6faccee6e6d7222ed5)
 <!-- qiita end -->
 <!-- devdotto start -->
 - [Dev.to]May 18 - [CTF Event Report: Security-JAWS 10th Anniversary Day 2 — All 27 AWS Security Challenges Solved](https://dev.to/aws-builders/ctf-event-report-security-jaws-10th-anniversary-day-2-all-27-aws-security-challenges-solved-51c3)
