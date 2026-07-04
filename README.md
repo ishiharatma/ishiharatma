@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 [Other Activities Here](https://ishiharatma.github.io/activities/)
 
 <!-- zenn start -->
-- [Zenn]May 28 - [【AWS学習】AWS BuilderCards 2nd Edition 完全ガイド](https://zenn.dev/issy/articles/zenn-aws-buildercards)
-- [Zenn]May 20 - [【実例】AIは忘れる。だから仕様書に全部書く — GitHub Copilot を"記憶喪失"から救う6つのドキュメント管理術](https://zenn.dev/issy/articles/ai-spec-driven-development-knowhow)
+- [Zenn]Jul 04 - [【初心者向け】Amazon VPC Lattice 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-vpc-lattice-overview)
+- [Zenn]Jul 04 - [【初心者向け】Amazon VPC 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-vpc-overview)
 <!-- zenn end -->
 <!-- qiita start -->
 - [Qiita]May 25 - [さくらのクラウド検定アドバンスド──(07)デザインパターン](https://qiita.com/issy929/items/21a2f1dba9949abd19a9)
