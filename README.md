@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 [Other Activities Here](https://ishiharatma.github.io/activities/)
 
 <!-- zenn start -->
-- [Zenn]Jul 04 - [【初心者向け】Amazon VPC Lattice 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-vpc-lattice-overview)
-- [Zenn]Jul 04 - [【初心者向け】Amazon VPC 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-vpc-overview)
+- [Zenn]Jul 07 - [【初心者向け】AWS IAM Identiry Center 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-iam-identity-center-overview)
+- [Zenn]Jul 07 - [【初心者向け】Amazon EC2 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-ec2-overview)
 <!-- zenn end -->
 <!-- qiita start -->
 - [Qiita]May 25 - [さくらのクラウド検定アドバンスド──(07)デザインパターン](https://qiita.com/issy929/items/21a2f1dba9949abd19a9)
