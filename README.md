@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 - [Zenn]Jul 07 - [【初心者向け】Amazon EC2 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-ec2-overview)
 <!-- zenn end -->
 <!-- qiita start -->
+- [Qiita]Jul 19 - [Transit Gateway用サブネットを"CIDRの末尾"に配置したい問題 — 既存ツールで解決できず自作した](https://qiita.com/issy929/items/4f023701102737d49f58)
 - [Qiita]May 25 - [さくらのクラウド検定アドバンスド──(07)デザインパターン](https://qiita.com/issy929/items/21a2f1dba9949abd19a9)
-- [Qiita]May 21 - [さくらのクラウド検定アドバンスド──(06)セキュリティとガバナンス](https://qiita.com/issy929/items/54cfe16d93275e03ce0a)
 <!-- qiita end -->
 <!-- devdotto start -->
 - [Dev.to]May 18 - [CTF Event Report: Security-JAWS 10th Anniversary Day 2 — All 27 AWS Security Challenges Solved](https://dev.to/aws-builders/ctf-event-report-security-jaws-10th-anniversary-day-2-all-27-aws-security-challenges-solved-51c3)
