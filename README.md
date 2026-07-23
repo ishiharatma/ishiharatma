@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 - [Zenn]Jul 07 - [【初心者向け】Amazon EC2 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-ec2-overview)
 <!-- zenn end -->
 <!-- qiita start -->
+- [Qiita]Jul 23 - [AWS or Amazon Quiz](https://qiita.com/issy929/items/fc5d0b416328c8608a10)
 - [Qiita]Jul 19 - [さくらのクラウド検定アドバンスド──2026年第一回試験を終えて](https://qiita.com/issy929/items/5827cd672ad5582bacb2)
-- [Qiita]Jul 19 - [【セッション資料まとめ】2026/7/18 AWS CDK Conference Japan 2026](https://qiita.com/issy929/items/f8c5abf9f2e327bec8da)
 <!-- qiita end -->
 <!-- devdotto start -->
 - [Dev.to]Jul 19 - [The problem of putting Transit Gateway subnets at the "end" of a CIDR — existing tools couldn't solve it, so I built one myself](https://dev.to/aws-builders/the-problem-of-putting-transit-gateway-subnets-at-the-end-of-a-cidr-existing-tools-couldnt-5a97)
