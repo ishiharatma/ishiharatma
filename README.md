@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 - [Qiita]Jul 19 - [さくらのクラウド検定アドバンスド──2026年第一回試験を終えて](https://qiita.com/issy929/items/5827cd672ad5582bacb2)
 <!-- qiita end -->
 <!-- devdotto start -->
+- [Dev.to]Jul 28 - [AWS CDK 100 Drill Exercises #008: CloudFront VPC Origin — Reaching an Internal ALB Directly, and Designing an Incident-Response Escape Hatch](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-008-cloudfront-vpc-origin-reaching-an-internal-alb-directly-and-1cd1)
 - [Dev.to]Jul 23 - [AWS or Amazon Quiz — How Well Do You Know AWS Service Prefixes?](https://dev.to/aws-builders/aws-or-amazon-quiz-how-well-do-you-know-aws-service-prefixes-7n1)
-- [Dev.to]Jul 19 - [The problem of putting Transit Gateway subnets at the "end" of a CIDR — existing tools couldn't solve it, so I built one myself](https://dev.to/aws-builders/the-problem-of-putting-transit-gateway-subnets-at-the-end-of-a-cidr-existing-tools-couldnt-5a97)
 <!-- devdotto end -->
 
 ## My Resume
