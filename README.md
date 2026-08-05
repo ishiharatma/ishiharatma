@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <!-- zenn end -->
 <!-- qiita start -->
 - [Qiita]Jul 23 - [AWS or Amazon Quiz](https://qiita.com/issy929/items/fc5d0b416328c8608a10)
-- [Qiita]Jul 19 - [さくらのクラウド検定アドバンスド──2026年第一回試験を終えて](https://qiita.com/issy929/items/5827cd672ad5582bacb2)
+- [Qiita]Jul 19 - [さくらのクラウド検定アドバンスド、合格率50%の試験で見えた「得点率だけでは分からない弱点」](https://qiita.com/issy929/items/5827cd672ad5582bacb2)
 <!-- qiita end -->
 <!-- devdotto start -->
 - [Dev.to]Jul 28 - [AWS CDK 100 Drill Exercises #008: CloudFront VPC Origin — Reaching an Internal ALB Directly, and Designing an Incident-Response Escape Hatch](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-008-cloudfront-vpc-origin-reaching-an-internal-alb-directly-and-1cd1)
