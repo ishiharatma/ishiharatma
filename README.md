@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 - [Qiita]Jul 19 - [さくらのクラウド検定アドバンスド、合格率50%の試験で見えた「得点率だけでは分からない弱点」](https://qiita.com/issy929/items/5827cd672ad5582bacb2)
 <!-- qiita end -->
 <!-- devdotto start -->
-- [Dev.to]Jul 28 - [AWS CDK 100 Drill Exercises #008: CloudFront VPC Origin — Reaching an Internal ALB Directly, and Designing an Incident-Response Escape Hatch](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-008-cloudfront-vpc-origin-reaching-an-internal-alb-directly-and-1cd1)
-- [Dev.to]Jul 23 - [AWS or Amazon Quiz — How Well Do You Know AWS Service Prefixes?](https://dev.to/aws-builders/aws-or-amazon-quiz-how-well-do-you-know-aws-service-prefixes-7n1)
+- [Dev.to]Aug 17 - [AWS CDK 100 Drill Exercises #010: Budget Alerts & Cost Anomaly Detection — 5 FinOps Alerting Patterns in CDK](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-010-budget-alerts-cost-anomaly-detection-5-finops-alerting-23g2)
+- [Dev.to]Aug 17 - [AWS CDK 100 Drill Exercises #009: CloudWatch Logs S3 Archive — Comparing 3 Log Archive Patterns in One Repository](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-009-cloudwatch-logs-s3-archive-comparing-3-log-archive-patterns-42g0)
 <!-- devdotto end -->
 
 ## My Resume
