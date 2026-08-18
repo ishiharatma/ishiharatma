@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <!-- qiita end -->
 <!-- devdotto start -->
 - [Dev.to]Aug 17 - [AWS CDK 100 Drill Exercises #009: CloudWatch Logs S3 Archive — Comparing 3 Log Archive Patterns in One Repository](https://dev.to/issy929/aws-cdk-100-drill-exercises-009-cloudwatch-logs-s3-archive-comparing-3-log-archive-patterns-3ia6)
-- [Dev.to]Aug 17 - [AWS CDK 100 Drill Exercises #010: Budget Alerts & Cost Anomaly Detection — 5 FinOps Alerting Patterns in CDK](https://dev.to/issy929/aws-cdk-100-drill-exercises-010-budget-alerts-cost-anomaly-detection-5-finops-alerting-7dd)
+- [Dev.to]Aug 17 - [AWS CDK 100 Drill Exercises #010: Budget Alerts & Cost Anomaly Detection — 5 FinOps Alerting Patterns in CDK](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-010-budget-alerts-cost-anomaly-detection-5-finops-alerting-23g2)
 <!-- devdotto end -->
 
 ## My Resume
