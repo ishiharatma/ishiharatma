@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 - [Zenn]Jul 07 - [【初心者向け】Amazon EC2 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-ec2-overview)
 <!-- zenn end -->
 <!-- qiita start -->
+- [Qiita]Aug 31 - [GitHub Actions × AWS OIDC で急に `Not authorized to perform sts:AssumeRoleWithWebIdentity` になった話(原因は Immutable Subject Claim)](https://qiita.com/issy929/items/bb30ea95d8b7bbf71fd1)
 - [Qiita]Jul 23 - [AWS or Amazon Quiz](https://qiita.com/issy929/items/fc5d0b416328c8608a10)
-- [Qiita]Jul 19 - [さくらのクラウド検定アドバンスド、合格率50%の試験で見えた「得点率だけでは分からない弱点」](https://qiita.com/issy929/items/5827cd672ad5582bacb2)
 <!-- qiita end -->
 <!-- devdotto start -->
 - [Dev.to]Aug 29 - [AWS CDK 100 Drill Exercises #013: CloudFront S3 Static Website — Serving a Private Bucket over HTTPS with OAC and Cross-Region WAF](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-013-cloudfront-s3-static-website-serving-a-private-bucket-over-413g)
