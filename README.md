@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 [Other Activities Here](https://ishiharatma.github.io/activities/)
 
 <!-- zenn start -->
-- [Zenn]Sep 01 - [【初心者向け】AWS Cost Explorer 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-cost-explorer-overview)
-- [Zenn]Sep 01 - [【初心者向け】Amazon Cognito 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-cognito-overview)
+- [Zenn]Sep 27 - [【初心者向け】Amazon Kinesis Data Streams 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-kinesisdatastreams-overview)
+- [Zenn]Sep 27 - [【初心者向け】Amazon EFS 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-efs-overview)
 <!-- zenn end -->
 <!-- qiita start -->
 - [Qiita]Aug 31 - [GitHub Actions × AWS OIDC で急に `Not authorized to perform sts:AssumeRoleWithWebIdentity` になった話(原因は Immutable Subject Claim)](https://qiita.com/issy929/items/bb30ea95d8b7bbf71fd1)
