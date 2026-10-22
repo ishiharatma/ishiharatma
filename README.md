@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 [Other Activities Here](https://ishiharatma.github.io/activities/)
 
 <!-- zenn start -->
+- [Zenn]Oct 22 - [PHP2Shell の AWS WAF 緩和ルールを CloudFront と ALB の両方で実機検証した](https://zenn.dev/issy/articles/aws-waf-php2shell-mitigation)
 - [Zenn]Oct 19 - [Lambda Web Functions を CDK でデプロイして、多重実行・スロットリング・リリースを検証した](https://zenn.dev/issy/articles/aws-lambda-web-functions-express)
-- [Zenn]Sep 27 - [【初心者向け】Amazon Kinesis Data Streams 入門！完全ガイド](https://zenn.dev/issy/articles/zenn-kinesisdatastreams-overview)
 <!-- zenn end -->
 <!-- qiita start -->
 - [Qiita]Aug 31 - [GitHub Actions × AWS OIDC で急に `Not authorized to perform sts:AssumeRoleWithWebIdentity` になった話(原因は Immutable Subject Claim)](https://qiita.com/issy929/items/bb30ea95d8b7bbf71fd1)
