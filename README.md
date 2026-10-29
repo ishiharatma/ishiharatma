@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 - [Qiita]Jul 23 - [AWS or Amazon Quiz](https://qiita.com/issy929/items/fc5d0b416328c8608a10)
 <!-- qiita end -->
 <!-- devdotto start -->
+- [Dev.to]Oct 29 - [Automating CodeCommit PR Reviews with Amazon Bedrock: 986 Reviews in 10 Weeks, $0.18 Each, and What We Could Not Measure](https://dev.to/aws-builders/automating-codecommit-pr-reviews-with-amazon-bedrock-986-reviews-in-10-weeks-018-each-and-what-28e6)
 - [Dev.to]Oct 22 - [Testing the AWS WAF Mitigations for PHP2Shell on Both CloudFront and an ALB](https://dev.to/aws-builders/testing-the-aws-waf-mitigations-for-php2shell-on-both-cloudfront-and-an-alb-28ng)
-- [Dev.to]Aug 29 - [AWS CDK 100 Drill Exercises #013: CloudFront S3 Static Website — Serving a Private Bucket over HTTPS with OAC and Cross-Region WAF](https://dev.to/aws-builders/aws-cdk-100-drill-exercises-013-cloudfront-s3-static-website-serving-a-private-bucket-over-413g)
 <!-- devdotto end -->
 
 ## My Resume
