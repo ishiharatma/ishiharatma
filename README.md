@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 [Other Activities Here](https://ishiharatma.github.io/activities/)
 
 <!-- zenn start -->
+- [Zenn]Oct 29 - [CodeCommit の PR を Bedrock で AI レビュー、10 週間・986 回運用して分かったコストと限界](https://zenn.dev/issy/articles/aws-codecommit-pr-agent-bedrock-review)
 - [Zenn]Oct 22 - [PHP2Shell の AWS WAF 緩和ルールを CloudFront と ALB の両方で実機検証した](https://zenn.dev/issy/articles/aws-waf-php2shell-mitigation)
-- [Zenn]Oct 19 - [Lambda Web Functions を CDK でデプロイして、多重実行・スロットリング・リリースを検証した](https://zenn.dev/issy/articles/aws-lambda-web-functions-express)
 <!-- zenn end -->
 <!-- qiita start -->
 - [Qiita]Aug 31 - [GitHub Actions × AWS OIDC で急に `Not authorized to perform sts:AssumeRoleWithWebIdentity` になった話(原因は Immutable Subject Claim)](https://qiita.com/issy929/items/bb30ea95d8b7bbf71fd1)
