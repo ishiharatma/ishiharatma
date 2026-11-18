@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 - [Zenn]Oct 22 - [PHP2Shell の AWS WAF 緩和ルールを CloudFront と ALB の両方で実機検証した](https://zenn.dev/issy/articles/aws-waf-php2shell-mitigation)
 <!-- zenn end -->
 <!-- qiita start -->
+- [Qiita]Nov 18 - [AWS Emulator に実運用レベルの CDK 構成を流して分かった「使える範囲」と落とし穴](https://qiita.com/issy929/items/141d363b6305be6764a7)
 - [Qiita]Aug 31 - [GitHub Actions × AWS OIDC で急に `Not authorized to perform sts:AssumeRoleWithWebIdentity` になった話(原因は Immutable Subject Claim)](https://qiita.com/issy929/items/bb30ea95d8b7bbf71fd1)
-- [Qiita]Jul 23 - [AWS or Amazon Quiz](https://qiita.com/issy929/items/fc5d0b416328c8608a10)
 <!-- qiita end -->
 <!-- devdotto start -->
 - [Dev.to]Oct 29 - [Automating CodeCommit PR Reviews with Amazon Bedrock: 986 Reviews in 10 Weeks, $0.18 Each, and What We Could Not Measure](https://dev.to/aws-builders/automating-codecommit-pr-reviews-with-amazon-bedrock-986-reviews-in-10-weeks-018-each-and-what-28e6)
